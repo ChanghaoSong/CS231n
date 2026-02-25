@@ -5,3 +5,4 @@ assignment3/pretrained_model/
 assignment3/cs231n/datasets/emoji_data.npz
 assignment3/cs231n/datasets/text_embeddings.pt
 assignment3/cs231n/exp/pretrained/model-70000.pt
+assignment3/dino_res.mp4
